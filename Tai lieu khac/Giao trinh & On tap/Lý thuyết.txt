@@ -1,0 +1,7 @@
+Phương pháp nội suy đa thức, nội suy Lagrange, nội suy mốc cách đều, xấp xỉ trơn (spline) và bình phương tối thiểu đều có thể được sử dụng để giải phương trình. Tuy nhiên, cách sử dụng từng phương pháp sẽ khác nhau tùy thuộc vào bài toán cụ thể.
+
+Ví dụ, để giải phương trình f(x) = 0, ta có thể sử dụng phương pháp nội suy đa thức để xấp xỉ hàm số f(x) và sau đó tìm nghiệm bằng cách giải phương trình đa thức tương ứng. Tương tự, phương pháp nội suy Lagrange hoặc mốc cách đều cũng có thể được sử dụng để xấp xỉ hàm số và giải phương trình tương ứng.
+
+Phương pháp xấp xỉ spline và bình phương tối thiểu thường được sử dụng khi cần xấp xỉ hàm số không liên tục hoặc không đạo hàm được.
+
+Các phương pháp tính gần đúng tích phân như hình thang, Simpson, Euler, Euler thuận, Euler cải biên, Euler ngược, R-K, R-K bậc 2, AB-AM và AM có thể được sử dụng để tính toán giá trị của phương trình tích phân tại các điểm xác định. Tùy thuộc vào độ chính xác và độ phức tạp của hàm tích phân, ta có thể chọn phương pháp phù hợp để tính toán.
