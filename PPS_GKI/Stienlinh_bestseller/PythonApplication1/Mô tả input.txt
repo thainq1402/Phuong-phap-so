@@ -1,0 +1,4 @@
+Input:
+Dòng 1,2: Bộ điểm x,y
+Dòng 3: giá trị cần tính
+Dòng 4: công thức lựa chọn (Stirling hoặc Bessel)
