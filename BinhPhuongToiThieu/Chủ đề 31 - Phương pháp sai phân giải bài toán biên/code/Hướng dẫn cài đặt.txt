@@ -1,0 +1,6 @@
+- Cài đặt ngôn ngữ Julia
+https://www.youtube.com/watch?v=OOjKEgbt8AI&t=1s
+- Cài đặt các gói thư viện Pluto, PlutoUI, Sympy, LinearAlgebra sử dụng hướng dẫn sau : 
+https://docs.julialang.org/en/v1/stdlib/Pkg/
+- Chạy code bằng Pluto notebook
+https://computationalthinking.mit.edu/Fall20/installation/
