@@ -1,0 +1,4 @@
+input:
+dòng 1 là các mốc nội suy(cách đều tăng dần)
+dòng 2 là giá trị tại các mốc nội suy
+giá trị cần tính đạo hàm nhập từ bàn phím(chỉ tính tại các mốc ns)
